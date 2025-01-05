@@ -23,8 +23,10 @@ Nous allons encore rendre l'application plus interessant en permettant à l'util
 1. Lancez automatiquement les dés quand l'utilisateur défini un nombre (i.e. le bouton n'est plus utilisé)
 2. Quand l'utilisateur gagne une partie : animer les dés (bouger de bas en haut ou de droite à gauche, afficher des paillettes, ...).
 
-# Erape 4 Bonus
-1. Au lieu d'uttiser des nombres, utilisez une image représentant les cotés des dés. 
+# Erape 4 
+1. Ajoutez une nouvelle activité (MainActivity) et définissez la comme activité par défaut. Dans le layout de la nouvelle activité, ajoutez deux boutons centrés verticalement au millieu de l'écran. Nommez les boutons respectivement "Jeu de dés" et "Appeler les urgences".
+   a) Quand l'utilisateur clique sur le bouton "Jeu de dés", redirigez-le vers l'écran de jeu de dés developpé dans les étapes précédantes.
+   b) Quand l'utilisateur clique sur le bouton "Appeler les urgences", lancer un appel aux urgences
 
 # Contrainte 
 - Le travail est individuel
