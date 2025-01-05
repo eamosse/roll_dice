@@ -19,9 +19,12 @@ Nous allons encore rendre l'application plus interessant en permettant à l'util
 2. Une fois, le nombre choisie activer le bouton de lancé de dés (ie. le bouton est désactivé tant qu'on n'a pas rentré un nombre)
 3. L'utilisateur gagne si la somme des dés est égale au nombre choisi. 
 
-# Etap 3 
+# Etape 3 
 1. Lancez automatiquement les dés quand l'utilisateur défini un nombre (i.e. le bouton n'est plus utilisé)
-2. Quand l'utilisateur gagne une partie : animer les dés (bouger de bas en haut ou de droite à gauche) ou carrément afficher des paillettes à l'écran. 
+2. Quand l'utilisateur gagne une partie : animer les dés (bouger de bas en haut ou de droite à gauche, afficher des paillettes, ...).
+
+# Erape 4 Bonus
+1. Au lieu d'uttiser des nombres, utilisez une image représentant les cotés des dés. 
 
 # Contrainte 
 - Le travail est individuel
